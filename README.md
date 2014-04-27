@@ -4,6 +4,10 @@ StarlingFeathersGameMenu
 StarlingFeathersUI Game menu created by Alex Smith cynicmusic.com 
 
 
+THIS IS NOT ALEX SMITH I JUST UPLOADED THIS FOR SAFE KEEPING
+THE REST OF THIS TEXT COMES FROM THE README FILE WITHIN THE ZIP FOLDER
+I WILL NOT KEEP THIS UPDATED OR MANAGED. IF YOU FIND BUGS FORK IT YOURSELF
+
 [====================================]
 
 [ Feathers GameMenu v1.0
