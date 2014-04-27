@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:e924119498af7cce9e0800e5ba5c1aac$ -->
+<TextureAtlas imagePath="levelIcons.png">
+    <SubTexture name="level00" x="2" y="2" width="128" height="128"/>
+    <SubTexture name="level01" x="132" y="2" width="128" height="128"/>
+    <SubTexture name="level02" x="262" y="2" width="128" height="128"/>
+    <SubTexture name="level03" x="392" y="2" width="128" height="128"/>
+    <SubTexture name="level04" x="522" y="2" width="128" height="128"/>
+    <SubTexture name="level05" x="652" y="2" width="128" height="128"/>
+    <SubTexture name="level06" x="782" y="2" width="128" height="128"/>
+    <SubTexture name="level07" x="2" y="132" width="128" height="128"/>
+    <SubTexture name="level08" x="132" y="132" width="128" height="128"/>
+    <SubTexture name="level09" x="262" y="132" width="128" height="128"/>
+    <SubTexture name="level10" x="392" y="132" width="128" height="128"/>
+    <SubTexture name="level11" x="522" y="132" width="128" height="128"/>
+    <SubTexture name="level12" x="652" y="132" width="128" height="128"/>
+    <SubTexture name="level13" x="782" y="132" width="128" height="128"/>
+    <SubTexture name="level14" x="2" y="262" width="128" height="128"/>
+    <SubTexture name="level15" x="132" y="262" width="128" height="128"/>
+    <SubTexture name="level16" x="262" y="262" width="128" height="128"/>
+    <SubTexture name="level17" x="392" y="262" width="128" height="128"/>
+    <SubTexture name="level18" x="522" y="262" width="128" height="128"/>
+    <SubTexture name="level19" x="652" y="262" width="128" height="128"/>
+    <SubTexture name="level20" x="782" y="262" width="128" height="128"/>
+    <SubTexture name="level21" x="2" y="392" width="128" height="128"/>
+    <SubTexture name="level22" x="132" y="392" width="128" height="128"/>
+    <SubTexture name="normal-page-symbol" x="262" y="392" width="12" height="12"/>
+    <SubTexture name="selected-page-symbol" x="276" y="392" width="12" height="12"/>
+</TextureAtlas>
